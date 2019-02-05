@@ -19,7 +19,7 @@ figure out how to distrubute work between group members
 
 ## Anything Blocking?
 
-having a group member drop the class is a very big blocker, but they may not actually drop. We're figuring it out.
+having a group member drop the class is a very big blocker, but they may not actually drop. We're figuring it all out
 
 ## Notes
 
