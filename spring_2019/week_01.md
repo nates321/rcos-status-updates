@@ -18,6 +18,8 @@ We need to draw mockups and wireframes of our application as well
 
 Talking to the other group is blocking progress, after talking to them we will be able to move forward
 
+having a group member drop the class is a very big blocker
+
 ## Notes
 
 
